@@ -3,10 +3,10 @@
 
 # Simple Python Keylogger That Saves in a Text File
 Simple Python, Console Print, Txt File Saver, [Keylogger](https://pt.wikipedia.org/wiki/Keylogger).
-The script automatically creates a log.txt file!
-Every letter you type, prints in the file.
-It also prints in the console.
-Key "Esc" stops the execution of the program.
+- The script automatically creates a log.txt file!
+- Every letter you type, prints in the file.
+- It also prints in the console.
+- Key "Esc" stops the execution of the program.
 
 ## Instalation
 ```python
